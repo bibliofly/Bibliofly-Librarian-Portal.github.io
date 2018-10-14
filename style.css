@@ -1,0 +1,80 @@
+@import "@material/top-app-bar/mdc-top-app-bar";
+
+
+#jumboh1 {
+	text-align: left;
+	margin-left: 0;
+}
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+.jumbotron {
+	text-align: left;
+	padding: 0px !important;
+}
+
+
+#file {
+	text-align: left;
+}
+
+.wrapper {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+h3 {
+	text-align: right;
+	width: 100%;
+}
+
+#topRightName {
+	margin-top: 15px;
+	margin-bottom: 0px;
+}
+
+#schoolName {
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+	color: gray;
+}
+.mdc-top-app-bar__title {
+	font-family: 'Roboto', sans-serif;
+	font-size: 40px;
+}
+.mdc-card {
+  width: 100%;
+}
+.leftAligned {
+	text-align: left;
+}
+.leftAligned h1 {
+	text-align: left;
+	padding-left: 24px;
+	padding-top: 0px;
+}
+.mdc-button {
+
+}
+.buttonBlock {
+	padding-left: 24px;
+	padding-bottom:
+}
+.top {
+	margin-top: 70px;
+}
+
+.mdc-button {
+	color: rgb(49, 63, 161) !important;
+	font-size: 12px !important;
+}
